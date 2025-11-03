@@ -1,3 +1,18 @@
+# 🧩 How to Free Port 5000 (2 Options)
+✅ Option 1 — Disable AirPlay Receiver
+
+This is the cleanest and safest fix.
+
+Open System Settings
+
+Go to General → AirDrop & Handoff
+
+Find AirPlay Receiver
+
+Toggle it Off
+
+Reboot (optional, but ensures the port is freed)
+
 ## 1st. Run Posgresql local machine
 
 - git clone 
